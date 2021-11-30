@@ -1,0 +1,2 @@
+language = "C++"
+run = "clear;make;if [ $? -eq 0 ]; then clear; ./main.exe; fi"
